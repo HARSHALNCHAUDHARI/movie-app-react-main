@@ -1,4 +1,4 @@
-Movie Searching App using React
+## Movie Searching App using React
 Welcome to the Movie Searching App! 🎬
 
 I created this project for fun to practice React and integrate with the OMDB Movie API to fetch movie data. You can search for movies, view detailed information about them, and explore a wide variety of movie-related content.
